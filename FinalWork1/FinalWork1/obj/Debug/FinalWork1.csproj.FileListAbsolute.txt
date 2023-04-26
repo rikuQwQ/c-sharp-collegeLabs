@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Рабочий стол\УЧЁБА\Разработка программных модулей 2 семестр\FinalWork1\FinalWork1\bin\Debug\FinalWork1.exe.config
+C:\Users\Admin\OneDrive\Рабочий стол\УЧЁБА\Разработка программных модулей 2 семестр\FinalWork1\FinalWork1\bin\Debug\FinalWork1.exe
+C:\Users\Admin\OneDrive\Рабочий стол\УЧЁБА\Разработка программных модулей 2 семестр\FinalWork1\FinalWork1\bin\Debug\FinalWork1.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\УЧЁБА\Разработка программных модулей 2 семестр\FinalWork1\FinalWork1\obj\Debug\FinalWork1.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Рабочий стол\УЧЁБА\Разработка программных модулей 2 семестр\FinalWork1\FinalWork1\obj\Debug\FinalWork1.AddForm.resources
+C:\Users\Admin\OneDrive\Рабочий стол\УЧЁБА\Разработка программных модулей 2 семестр\FinalWork1\FinalWork1\obj\Debug\FinalWork1.MainForm.resources
+C:\Users\Admin\OneDrive\Рабочий стол\УЧЁБА\Разработка программных модулей 2 семестр\FinalWork1\FinalWork1\obj\Debug\FinalWork1.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Рабочий стол\УЧЁБА\Разработка программных модулей 2 семестр\FinalWork1\FinalWork1\obj\Debug\FinalWork1.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Рабочий стол\УЧЁБА\Разработка программных модулей 2 семестр\FinalWork1\FinalWork1\obj\Debug\FinalWork1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\УЧЁБА\Разработка программных модулей 2 семестр\FinalWork1\FinalWork1\obj\Debug\FinalWork1.exe
+C:\Users\Admin\OneDrive\Рабочий стол\УЧЁБА\Разработка программных модулей 2 семестр\FinalWork1\FinalWork1\obj\Debug\FinalWork1.pdb
